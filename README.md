@@ -7,7 +7,12 @@ Developed a classic snake game using C and the Linux server that continuously up
 - Includes live score that will update on each apple eaten as well as a final score once the game ends
 
 ## Commands
-run with main.py
+**MUST BE RUN ON THE LINUX SERVER**
+- compile: gcc -std=c99 -Wall snakegame.c
+- run: ./a.out
+#### OR
+- compile: gcc -std=c99 -Wall snakegame.c -o (name of choice)
+- run: ./(name of choice)
 
 ## Screenshots
 
