@@ -16,4 +16,7 @@ Developed a classic snake game using C and the Linux server that continuously up
 
 ## Screenshots
 
-Currently no access to the Linux server.
+![snake1](https://github.com/user-attachments/assets/e7ea6975-90b9-4599-8102-44d9c7f7dc8c)
+
+![snake2](https://github.com/user-attachments/assets/361d1ab0-4f28-4c6d-9b04-56e6a87b6fa4)
+
